@@ -5,9 +5,9 @@
 **Every drop counts.** Live tank levels on every phone for housing societies, so tanks stop overflowing and running dry,
 the motor runs only as long as needed, and the committee gets clear reports.
 
-**[▶ Try the live demo](https://chanchalsakardeqh.github.io/WATER-TANK-MANAGEMENT-SYSTEM-PRE-SALE-DEMO/)**
+**[▶ Try the live demo](https://smartwatertank.com/)**
 
-**[Brochure, flyers, posters and QR codes](https://chanchalsakardeqh.github.io/WATER-TANK-MANAGEMENT-SYSTEM-PRE-SALE-DEMO/#downloads)** to download or share, and a sample water report (PDF) from the demo.
+**[Brochure, flyers, posters and QR codes](https://smartwatertank.com/#downloads)** to download or share, and a sample water report (PDF) from the demo.
 
 <img src="qr/whatsapp-website.png" alt="QR code: WhatsApp us" width="150">
 
